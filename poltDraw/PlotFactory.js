@@ -1,6 +1,4 @@
-/**
- * Created by chenzpa on 2015/10/30.
- */
+
 define([
     "dojo/_base/declare",
     '/poltDraw/ext/sector.js',
